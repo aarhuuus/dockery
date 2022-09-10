@@ -1,4 +1,4 @@
-FROM louislam/uptime-kuma:latest
+FROM louislam/uptime-kuma:beta
 
 EXPOSE 3000
 
